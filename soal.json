@@ -1,0 +1,177 @@
+{
+  "pauli_tips": "Kerjakan dari bawah ke atas, stabil di tengah, jangan panik. Target 45 baris dalam 10 menit. Grafik naik = ambisius bagus. Jangan anjlok di tengah.",
+  "wartegg": [
+    {
+      "kotak": 1,
+      "stimulus": "titik di tengah",
+      "arti": "identitas diri",
+      "tips": "Gambar matahari/kompas dengan 8 sinar. Jangan abstrak"
+    },
+    {
+      "kotak": 2,
+      "stimulus": "garis melengkung",
+      "arti": "fleksibilitas emosi",
+      "tips": "Gambar burung terbang/daun. Lengkung = emosi bebas"
+    },
+    {
+      "kotak": 3,
+      "stimulus": "3 garis sejajar",
+      "arti": "ambisi",
+      "tips": "WAJIB gambar tangga/gedung bertingkat naik ke atas"
+    },
+    {
+      "kotak": 4,
+      "stimulus": "kotak hitam kecil",
+      "arti": "beban/masalah",
+      "tips": "Gambar jendela/catur. Jangan blok hitam semua"
+    },
+    {
+      "kotak": 5,
+      "stimulus": "2 garis bersilang",
+      "arti": "agresi/dorongan",
+      "tips": "Gambar ketapel/panah. JANGAN gambar senjata tajam/pistol"
+    },
+    {
+      "kotak": 6,
+      "stimulus": "2 garis terpisah",
+      "arti": "integrasi",
+      "tips": "Gambar tiang listrik/jembatan penghubung"
+    },
+    {
+      "kotak": 7,
+      "stimulus": "7 titik melengkung",
+      "arti": "kepekaan",
+      "tips": "Gambar padi 7 bulir/bunga 7"
+    },
+    {
+      "kotak": 8,
+      "stimulus": "garis melengkung besar",
+      "arti": "perlindungan",
+      "tips": "Gambar payung/helm/topi"
+    }
+  ],
+  "logika": [
+    {
+      "q": "Jika semua prajurit disiplin, dan Andi prajurit, maka?",
+      "a": "Andi disiplin",
+      "opsi": ["Andi malas", "Andi disiplin", "Andi bukan prajurit"]
+    },
+    {
+      "q": "Seri angka: 2, 4, 8, 16, ...",
+      "a": "32",
+      "opsi": ["24", "32", "30"]
+    },
+    {
+      "q": "Sinonim DEDIKASI adalah?",
+      "a": "Pengabdian",
+      "opsi": ["Malas", "Pengabdian", "Hukuman"]
+    },
+    {
+      "q": "Antonim BERANI adalah?",
+      "a": "Takut",
+      "opsi": ["Berani", "Takut", "Pemberani"]
+    },
+    {
+      "q": "TB 170cm BB 75kg, BMI = 75/(1.7*1.7)=25.9 artinya?",
+      "a": "Overweight",
+      "opsi": ["Ideal", "Overweight", "Kurus"]
+    },
+    {
+      "q": "Pancasila sila ke-3?",
+      "a": "Persatuan Indonesia",
+      "opsi": ["Ketuhanan", "Persatuan Indonesia", "Keadilan Sosial"]
+    },
+    {
+      "q": "Sapta Marga ada berapa poin?",
+      "a": "3",
+      "opsi": ["5", "3", "7"]
+    },
+    {
+      "q": "Lari 12 menit TNI AD nilai 100 berapa meter? (usia 18-25)",
+      "a": "3507m",
+      "opsi": ["2500m", "3507m", "2000m"]
+    },
+    {
+      "q": "Pull-up TNI AD nilai 100 berapa kali?",
+      "a": "20 kali",
+      "opsi": ["10 kali", "20 kali", "5 kali"]
+    },
+    {
+      "q": "Renang TNI AL 50m gaya dada batas lulus?",
+      "a": "< 60 detik",
+      "opsi": ["< 60 detik", "< 2 menit", "< 30 detik"]
+    }
+  ],
+  "mi_wawancara": [
+    {
+      "q": "Kenapa mau jadi TNI?",
+      "ideal": "Mengabdi pada NKRI, menjaga kedaulatan, siap ditempatkan dimana saja, melanjutkan cita-cita keluarga. JANGAN jawab: cari kerja/gaji."
+    },
+    {
+      "q": "Apa itu Sumpah Prajurit & Sapta Marga?",
+      "ideal": "Sumpah 7 poin, Sapta Marga 3 poin. Setia pada NKRI, taat hukum, disiplin, menjaga kehormatan."
+    },
+    {
+      "q": "Jika disuruh atasan melanggar hukum?",
+      "ideal": "Lapor berjenjang sesuai hierarki, tidak langsung menolak frontal, tetap pada Sapta Marga dan Sumpah Prajurit."
+    },
+    {
+      "q": "Punya pacar?",
+      "ideal": "Tidak ada, fokus persiapan TNI. Kalau jawab punya, pasti ditanya lebih dalam dan bisa TMS."
+    },
+    {
+      "q": "Siapa yang membiayai hidup orang tua?",
+      "ideal": "Orang tua masih mampu, saya ingin mandiri lewat TNI."
+    },
+    {
+      "q": "Kalau tidak lolos TNI mau apa?",
+      "ideal": "Coba lagi tahun depan sambil kuliah/bekerja, tetap semangat mengabdi lewat cara lain."
+    }
+  ],
+  "garjas_tabel": {
+    "AD_18_25": {
+      "lari_100": 3507,
+      "lari_85": 3222,
+      "lari_70": 2800,
+      "lari_60": 2500,
+      "lari_50": 2200,
+      "pullup_100": 20,
+      "pullup_60": 10,
+      "pushup_100": 45,
+      "pushup_60": 25,
+      "situp_100": 45,
+      "situp_60": 25,
+      "shuttle_100": "13 detik",
+      "shuttle_60": "16 detik"
+    },
+    "AL": {
+      "renang_100": "50m <45 detik",
+      "renang_lulus": "50m <60 detik",
+      "lari_100": 3000
+    },
+    "AU": {
+      "lari_100": 3200,
+      "renang_100": "50m <50 detik"
+    }
+  },
+  "rikkes": [
+    "Varikokel grade 2-3 TMS",
+    "Buta warna total/parsial TMS",
+    "Tato & tindik + bekas tindik TMS",
+    "Gigi berlubang >3, karang gigi tebal, gigi depan ompong TMS",
+    "Ambeien luar TMS",
+    "Tekanan darah >140/90 TMS",
+    "HB <13, diabetes, hepatitis TMS",
+    "Flat foot parah, skoliosis, kaki O/X parah TMS"
+  ],
+  "administrasi": [
+    "KTP & KK asli + FC 5 lembar",
+    "Ijazah SD-SMA asli + legalisir 5 lembar",
+    "Akta Lahir asli + FC",
+    "SKCK Polres Pasuruan aktif",
+    "Surat belum menikah KUA/Desa",
+    "BPJS aktif",
+    "Pas foto 4x6 background merah 10 lembar",
+    "Materai 10rb 5 lembar"
+  ]
+}
