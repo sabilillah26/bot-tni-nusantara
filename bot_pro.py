@@ -4,7 +4,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 TOKEN = os.getenv("TOKEN")
-ADMIN_ID = 123456789 # Ganti ID Telegram lu biar bisa broadcast
+ADMIN_ID = 709675411 # Ganti ID Telegram lu biar bisa broadcast
 
 def init_db():
     conn = sqlite3.connect('users.db')
