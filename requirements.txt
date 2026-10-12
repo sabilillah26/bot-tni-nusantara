@@ -1,0 +1,3 @@
+bot_pro.py
+soal.json
+requirements.txt
